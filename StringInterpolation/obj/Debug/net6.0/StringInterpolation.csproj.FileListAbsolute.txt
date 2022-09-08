@@ -1,0 +1,15 @@
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.deps.json
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.runtimeconfig.json
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.dll
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/bin/Debug/net6.0/ref/StringInterpolation.dll
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/bin/Debug/net6.0/StringInterpolation.pdb
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.csproj.AssemblyReference.cache
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.AssemblyInfoInputs.cache
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.AssemblyInfo.cs
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.csproj.CoreCompileInputs.cache
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.dll
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/ref/StringInterpolation.dll
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.pdb
+/Users/jacobboudreaux/RiderProjects/StringInterpolation/StringInterpolation/obj/Debug/net6.0/StringInterpolation.genruntimeconfig.cache
